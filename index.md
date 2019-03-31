@@ -1,12 +1,9 @@
 # Michele Aquaro
 Research Fellow
-
 Joint Research Centre
-
 European Commission
 
 Research field: Econometrics
-
 PhD: Tilburg University
 
 ## Publications
