@@ -1,10 +1,13 @@
 # Michele Aquaro
-Research Fellow
-Joint Research Centre
+
+(Website temporary **under construction**, 01 Apr 2019.)
+
+Research Fellow<br/>
+Joint Research Centre<br/>
 European Commission
 
-Research field: Econometrics
-PhD: Tilburg University
+Research field: Theoretical and applied microconometrics<br/>
+PhD: Tilburg University<br/>
 
 ## Publications
 *Robust estimation and moment selection in dynamic fixed-effects panel data models* (2018, with Pavel Cizek), **Computational Statistics**. [[Paper](https://doi.org/10.1007/s00180-017-0782-7)]
