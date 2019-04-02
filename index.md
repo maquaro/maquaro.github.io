@@ -10,7 +10,7 @@ Research field: Theoretical and applied microconometrics<br/>
 PhD: Tilburg University<br/>
 
 ## Publications
-*Robust estimation and moment selection in dynamic fixed-effects panel data models* (2018, with Pavel Cizek), **Computational Statistics**. [[Paper](https://doi.org/10.1007/s00180-017-0782-7)]
+*Robust estimation and moment selection in dynamic fixed-effects panel data models* (2018, with Pavel Cizek), **Computational Statistics**. [[Abstract](test)] [[Paper](https://doi.org/10.1007/s00180-017-0782-7)]
 
 *Robust estimation of dynamic fixed-effects panel data models* (2014, with Pavel Cizek), **Statistical Papers**. [[Paper](https://doi.org/10.1007/s00362-013-0545-7)]
 
