@@ -4,7 +4,7 @@ Research Fellow<br/>
 Joint Research Centre<br/>
 European Commission
 
-Research field: Theoretical and applied microconometrics<br/>
+Research field: Econometrics<br/>
 PhD: Tilburg University<br/>
 [CV](./aquaro-cv.pdf)<br/>
 
