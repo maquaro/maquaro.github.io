@@ -6,7 +6,7 @@ European Commission
 
 Research field: Theoretical and applied microconometrics<br/>
 PhD: Tilburg University<br/>
-[CV](https://github.com/maquaro/maquaro.github.io/blob/master/aquaro-cv.pdf)<br/>
+[CV](./aquaro-cv.pdf)<br/>
 
 ## Publications
 **Robust estimation and moment selection in dynamic fixed-effects panel data models**<br/>
