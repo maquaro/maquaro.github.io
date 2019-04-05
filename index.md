@@ -8,25 +8,25 @@ Research field: Theoretical and applied microconometrics<br/>
 PhD: Tilburg University<br/>
 
 ## Publications
-*Robust estimation and moment selection in dynamic fixed-effects panel data models*<br/>
+**Robust estimation and moment selection in dynamic fixed-effects panel data models**<br/>
 with [Pavel Cizek](https://research.tilburguniversity.edu/en/persons/pavel-cizek)<br/>
-**Computational Statistics**, 33:2, 2018, p.675-708<br/>
+*Computational Statistics*, 33:2, 2018, p.675-708<br/>
 [[Paper](https://doi.org/10.1007/s00180-017-0782-7)]
 
-*Robust estimation of dynamic fixed-effects panel data models*<br/>
+**Robust estimation of dynamic fixed-effects panel data models**<br/>
 with [Pavel Cizek](https://research.tilburguniversity.edu/en/persons/pavel-cizek)<br/>
-**Statistical Papers**, 55:1, 2014, p.169-186<br/>
+*Statistical Papers*, 55:1, 2014, p.169-186<br/>
 [[Paper](https://doi.org/10.1007/s00362-013-0545-7)]
 
-*One-step robust estimation of fixed-effects panel data models*
+**One-step robust estimation of fixed-effects panel data models**<br/>
 with [Pavel Cizek](https://research.tilburguniversity.edu/en/persons/pavel-cizek)<br/>
-**Computational Statistics & Data Analysis**, 57:1, p.536-548
+*Computational Statistics & Data Analysis*, 57:1, p.536-548<br/>
 [[Paper](https://doi.org/10.1016/j.csda.2012.07.003)]
 
 ## Working Papers
-*Estimation and Inference for Spatial Models with Heterogeneous Coefficients: An Application to U.S. House Prices*<br/>
+**Estimation and Inference for Spatial Models with Heterogeneous Coefficients: An Application to U.S. House Prices**<br/>
 with [Natalia Bailey](https://research.monash.edu/en/persons/natalia-bailey) and [M. Hashem Pesaran](http://www.econ.cam.ac.uk/people/emeritus/mhp1)<br/>
-**Submitted**, 2019<br/>
+*Submitted*, 2019<br/>
 [[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3352906)]
 [replication files (coming soon)]
 <details>
@@ -35,4 +35,5 @@ with [Natalia Bailey](https://research.monash.edu/en/persons/natalia-bailey) and
   </details>
 
 ## Work-in-progress
-**
+**Pairwise difference estimation of dynamic panel data models**<br/>
+with [Pavel Cizek](https://research.tilburguniversity.edu/en/persons/pavel-cizek)<br/>
