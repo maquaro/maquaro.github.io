@@ -15,7 +15,9 @@ with [Pavel Cizek](https://research.tilburguniversity.edu/en/persons/pavel-cizek
 <details>
   <summary>Abstract</summary>
   
+  <p>
   Considering linear dynamic panel data models with fixed effects, existing outlier–robust estimators based on the median ratio of two consecutive pairs of first-differenced data are extended to higher-order differencing. The estimation procedure is thus based on many pairwise differences and their ratios and is designed to combine high precision and good robust properties. In particular, the proposed two-step GMM estimator based on the corresponding moment equations relies on an innovative weighting scheme reflecting both the variance and bias of those moment equations, where the bias is assumed to stem from data contamination. To estimate the bias, the influence function is derived and evaluated. The robust properties of the estimator are characterized both under contamination by independent additive outliers and the patches of additive outliers. The proposed estimator is additionally compared with existing methods by means of Monte Carlo simulations.
+  </p>
   </details>
 
 **Robust estimation of dynamic fixed-effects panel data models**<br/>
