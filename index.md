@@ -108,12 +108,12 @@ Giovanni Millo<br/>
 with 
 Giacomo Damioli and Balazs Lengyel<br/>
 
+## Work-in-progress
+
 **The Informational Role of Housing Market Liquidity**<br/>
 with 
 [Ida Johnsson](https://idajohnsson.com/) and
 [Cristian Badarinza](http://www.badarinza.net/)<br/>
-
-## Work-in-progress
 
 **Pairwise difference estimation of dynamic panel data models**<br/>
 with [Pavel Cizek](https://research.tilburguniversity.edu/en/persons/pavel-cizek)<br/>
