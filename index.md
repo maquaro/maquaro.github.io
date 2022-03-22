@@ -8,16 +8,55 @@ Research field: Econometrics<br/>
 PhD: Tilburg University<br/>
 [CV](./aquaro-cv.pdf)<br/>
 
+## Working Papers
+
+**Estimation and inference for spatial models with heterogeneous coefficients in MATLAB, Python, R, and Stata**<br/>
+with 
+[Federico Belotti](https://economia.uniroma2.it/faculty/333/belotti-federico) and
+[Ida Johnsson](https://idajohnsson.com/)<br/>
+The package `hetsar` is available in
+[R](https://github.com/maquaro/hetsar),
+[Stata](https://ideas.repec.org/c/boc/bocode/s458926.html),
+[Python](https://pypi.org/project/hetsar/), and
+MATLAB
+
 ## Publications
+
+**Innovative mergers and acquisitions and the broker regions of European integration**<br/>
+with 
+[Giacomo Damioli](https://orcid.org/0000-0001-8308-8367) and 
+[Balázs Lengyel](https://orcid.org/0000-0001-5196-5599)<br/>
+*Regional Studies*, xx:x, 2021, p.xx-xx<br/>
+[[Paper](https://doi.org/10.1080/00343404.2021.1998418)]
+[[Supplementary Appendix](https://www.tandfonline.com/doi/suppl/10.1080/00343404.2021.1998418)]
+<details>
+  <summary>Abstract</summary>
+  <p>Cross-regional mergers and acquisitions (M&A) transfer control and
+  diffuse knowledge across space, which facilitates the integration of business
+  systems. We analyse about 40,000 cross-regional acquisitions in Europe
+  completed between 2003 and 2017 and distinguish innovative and non-innovative
+  M&A. Both types of deals cluster into communities constituted by countries
+  or groups of neighbouring countries. However, an increasing proportion of
+  deals connect different communities, especially for innovative M&A. More
+  populous and richer regions host more acquiring and target companies and thus
+  broker communities. Research and development expenditure and skilled human
+  capital are additional factors favouring brokerage of regions by attracting
+  acquirers.</p>
+</details>
 
 **Estimation and inference for spatial models with heterogeneous coefficients: An application to US house prices**<br/>
 with 
 [Natalia Bailey](https://research.monash.edu/en/persons/natalia-bailey) and 
 [M. Hashem Pesaran](http://www.econ.cam.ac.uk/people/emeritus/mhp1)<br/>
 *Journal of Applied Econometrics*, 36:1, 2021, p.18-44<br/>
-[[Paper]( https://doi.org/10.1002/jae.2792)]
+[[Paper](https://doi.org/10.1002/jae.2792)]
 [[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3352931)]
-[[Replication files](http://qed.econ.queensu.ca/jae/datasets/aquaro001/)]
+[[Replication files](http://qed.econ.queensu.ca/jae/datasets/aquaro001/)]<br/>
+The package `hetsar` is available in
+[R](https://github.com/maquaro/hetsar),
+[Stata](https://ideas.repec.org/c/boc/bocode/s458926.html),
+[Python](https://pypi.org/project/hetsar/), and
+MATLAB
 <details>
   <summary>Abstract</summary>
   <p>This paper considers the estimation and inference of spatial panel data
@@ -95,28 +134,6 @@ with [Pavel Cizek](https://research.tilburguniversity.edu/en/persons/pavel-cizek
   of the existing and proposed methods is compared by means of Monte Carlo
   simulations.</p>
 </details>
-
-## Working Papers
-
-**Estimation and inference for spatial models with heterogeneous coefficients in MATLAB, Python, R, and Stata**<br/>
-with 
-[Federico Belotti](https://economia.uniroma2.it/faculty/333/belotti-federico),
-[Ida Johnsson](https://idajohnsson.com/), and
-Giovanni Millo<br/>
-
-**Innovative Mergers & Acquisitions and the integration of European regions**<br/>
-with 
-Giacomo Damioli and Balazs Lengyel<br/>
-
-## Work-in-progress
-
-**The Informational Role of Housing Market Liquidity**<br/>
-with 
-[Ida Johnsson](https://idajohnsson.com/) and
-[Cristian Badarinza](http://www.badarinza.net/)<br/>
-
-**Pairwise difference estimation of dynamic panel data models**<br/>
-with [Pavel Cizek](https://research.tilburguniversity.edu/en/persons/pavel-cizek)<br/>
 
 ## Policy reports
 
