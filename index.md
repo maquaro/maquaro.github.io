@@ -1,12 +1,25 @@
 # Michele Aquaro
 
-Research Fellow<br/>
-Joint Research Centre<br/>
-European Commission
+Postdoctoral Research Fellow<br/>
+Department of Economics and Management<br/>
+University of Luxembourg
 
 Research field: Econometrics<br/>
 PhD: Tilburg University<br/>
 [CV](./aquaro-cv.pdf)<br/>
+
+## Work in progress
+
+**Detecting structural breaks in spatial panel data models with unknown networks**<br/>
+with
+Ryo Okui and
+Wendun Wang<br/>
+
+**Intergenerational transmission of earnings within the firm: evidence from Danish administrative data**<br/>
+with
+Paul Bingley,
+Lorenzo Cappellari,
+and Konstantinos Tatsiramos<br/>
 
 ## Working Papers
 
@@ -26,7 +39,7 @@ MATLAB
 with 
 [Giacomo Damioli](https://orcid.org/0000-0001-8308-8367) and 
 [Balázs Lengyel](https://orcid.org/0000-0001-5196-5599)<br/>
-*Regional Studies*, xx:x, 2021, p.xx-xx<br/>
+*Regional Studies*, 57:2, 2023, p.287-299<br/>
 [[Paper](https://doi.org/10.1080/00343404.2021.1998418)]
 [[Supplementary Appendix](https://www.tandfonline.com/doi/suppl/10.1080/00343404.2021.1998418)]
 <details>
