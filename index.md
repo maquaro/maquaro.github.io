@@ -50,16 +50,17 @@ Full CV: [here](./aquaro-cv.pdf)<br />
       [<a href="https://doi.org/10.1080/00343404.2021.1998418">Paper</a>]
       [<a href="https://www.tandfonline.com/doi/suppl/10.1080/00343404.2021.1998418">Supplementary Appendix</a>]
     </summary>
-    <p>Cross-regional mergers and acquisitions (M&amp;A) transfer control and
-    diffuse knowledge across space, which facilitates the integration of business
-    systems. We analyse about 40,000 cross-regional acquisitions in Europe
-    completed between 2003 and 2017 and distinguish innovative and non-innovative
-    M&amp;A. Both types of deals cluster into communities constituted by countries
-    or groups of neighbouring countries. However, an increasing proportion of
-    deals connect different communities, especially for innovative M&amp;A. More
-    populous and richer regions host more acquiring and target companies and thus
-    broker communities. Research and development expenditure and skilled human
-    capital are additional factors favouring brokerage of regions by attracting
+    <p style="text-align: justify;">Cross-regional mergers and acquisitions
+    (M&amp;A) transfer control and diffuse knowledge across space, which
+    facilitates the integration of business systems. We analyse about 40,000
+    cross-regional acquisitions in Europe completed between 2003 and 2017 and
+    distinguish innovative and non-innovative M&amp;A. Both types of deals
+    cluster into communities constituted by countries or groups of neighbouring
+    countries. However, an increasing proportion of deals connect different
+    communities, especially for innovative M&amp;A. More populous and richer
+    regions host more acquiring and target companies and thus broker
+    communities. Research and development expenditure and skilled human capital
+    are additional factors favouring brokerage of regions by attracting
     acquirers.</p>
   </details></li>
 
@@ -81,7 +82,7 @@ Full CV: [here](./aquaro-cv.pdf)<br />
       [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3352931">Working Paper</a>]
       [<a href="http://qed.econ.queensu.ca/jae/datasets/aquaro001/">Replication files</a>]
     </summary>
-    <p>This paper considers the estimation and inference of spatial panel data
+    <p style="text-align: justify;">This paper considers the estimation and inference of spatial panel data
     models with heterogeneous spatial lag coefficients, with and without weakly
     exogenous regressors, and subject to heteroskedastic errors. A quasi maximum
     likelihood (QML) estimation procedure is developed and the conditions for
@@ -107,7 +108,7 @@ Full CV: [here](./aquaro-cv.pdf)<br />
       [Abstract]
       [<a href="https://doi.org/10.1007/s00180-017-0782-7">Paper</a>]
     </summary>
-    <p>Considering linear dynamic panel data models with fixed effects,
+    <p style="text-align: justify;">Considering linear dynamic panel data models with fixed effects,
     existing outlier–robust estimators based on the median ratio of two
     consecutive pairs of first-differenced data are extended to higher-order
     differencing. The estimation procedure is thus based on many pairwise
@@ -134,7 +135,7 @@ Full CV: [here](./aquaro-cv.pdf)<br />
       [Abstract]
       [<a href="https://doi.org/10.1007/s00362-013-0545-7">Paper</a>]
     </summary>
-    <p>This paper extends an existing outlier-robust estimator of linear dynamic
+    <p style="text-align: justify;">This paper extends an existing outlier-robust estimator of linear dynamic
     panel data models with fixed effects, which is based on the median ratio of
     two consecutive pairs of first-order differenced data. To improve its
     precision and robustness properties, a general procedure based on
@@ -158,7 +159,7 @@ Full CV: [here](./aquaro-cv.pdf)<br />
       [Abstract]
       [<a href="https://doi.org/10.1016/j.csda.2012.07.003">Paper</a>]
     </summary>
-    <p>The panel-data regression models are frequently applied to micro-level
+    <p style="text-align: justify;">The panel-data regression models are frequently applied to micro-level
     data, which often suffer from data contamination, erroneous observations, or
     unobserved heterogeneity. Despite the adverse effects of outliers on
     classical estimation methods, there are only a few robust estimation methods
@@ -186,7 +187,7 @@ Full CV: [here](./aquaro-cv.pdf)<br />
       [Abstract]
       [<a href="http://publications.jrc.ec.europa.eu/repository/handle/JRC122436">Policy report</a>]
     </summary>
-    <p>Mergers and acquisitions (M&amp;A) entail the substantial reallocation of
+    <p style="text-align: justify;">Mergers and acquisitions (M&amp;A) entail the substantial reallocation of
     economic activities. When they involve distant acquiring and target
     companies, they transfer control and diffuse knowledge across locations,
     which in turn facilitates the process of the integration of business systems.
