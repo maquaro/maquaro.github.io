@@ -35,6 +35,30 @@ MATLAB
 
 ## Publications
 
+**Innovative mergers and acquisitions and the broker regions of European integration**<br />
+with 
+[Giacomo Damioli](https://orcid.org/0000-0001-8308-8367) and 
+[Balázs Lengyel](https://orcid.org/0000-0001-5196-5599)<br />
+*Regional Studies*, 57:2, 2023, p.287-299
+<details>
+  <summary>
+    [Abstract]
+    [<a href="https://doi.org/10.1080/00343404.2021.1998418">Paper</a>]
+    [<a href="https://www.tandfonline.com/doi/suppl/10.1080/00343404.2021.1998418">Supplementary Appendix</a>]
+  </summary>
+  <p>Cross-regional mergers and acquisitions (M&A) transfer control and
+  diffuse knowledge across space, which facilitates the integration of business
+  systems. We analyse about 40,000 cross-regional acquisitions in Europe
+  completed between 2003 and 2017 and distinguish innovative and non-innovative
+  M&A. Both types of deals cluster into communities constituted by countries
+  or groups of neighbouring countries. However, an increasing proportion of
+  deals connect different communities, especially for innovative M&A. More
+  populous and richer regions host more acquiring and target companies and thus
+  broker communities. Research and development expenditure and skilled human
+  capital are additional factors favouring brokerage of regions by attracting
+  acquirers.</p>
+</details>
+
 **Innovative mergers and acquisitions and the broker regions of European integration**<br/>
 with 
 [Giacomo Damioli](https://orcid.org/0000-0001-8308-8367) and 
