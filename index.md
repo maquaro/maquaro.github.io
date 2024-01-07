@@ -184,7 +184,7 @@ Full CV: [here](./aquaro-cv.pdf)<br />
   <details>
     <summary>
       [Abstract]
-      [<a href="http://publications.jrc.ec.europa.eu/repository/handle/JRC122436">Paper</a>]
+      [<a href="http://publications.jrc.ec.europa.eu/repository/handle/JRC122436">Policy report</a>]
     </summary>
     <p>Mergers and acquisitions (M&amp;A) entail the substantial reallocation of
     economic activities. When they involve distant acquiring and target
