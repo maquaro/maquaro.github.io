@@ -67,9 +67,12 @@ with
 [Balázs Lengyel](https://orcid.org/0000-0001-5196-5599)<br/>
 *Regional Studies*, 57:2, 2023, p.287-299<br/>
 [[Paper](https://doi.org/10.1080/00343404.2021.1998418)]
-[[Supplementary Appendix](https://www.tandfonline.com/doi/suppl/10.1080/00343404.2021.1998418)]
-<details>
-  <summary>Abstract</summary>
+[[Supplementary Appendix](https://www.tandfonline.com/doi/suppl/10.1080/00343404.2021.1998418)]<details>
+  <summary>
+  [Abstract]
+  [<a href="https://doi.org/10.1080/00343404.2021.1998418">Paper</a>]
+  [<a href="https://www.tandfonline.com/doi/suppl/10.1080/00343404.2021.1998418">Supplementary Appendix</a>]
+  </summary>
   <p>Cross-regional mergers and acquisitions (M&A) transfer control and
   diffuse knowledge across space, which facilitates the integration of business
   systems. We analyse about 40,000 cross-regional acquisitions in Europe
