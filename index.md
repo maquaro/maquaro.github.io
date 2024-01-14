@@ -8,6 +8,9 @@ Research field: Econometrics<br />
 PhD: Tilburg University<br />
 Full CV: [here](./aquaro-cv.pdf)<br />
 
+Contact:<br />
+`michele [dot] aquaro [at] uni [dot] lu`
+
 <small>Last updated Jan 2024</small>
 
 ## Work in progress
@@ -62,7 +65,9 @@ Full CV: [here](./aquaro-cv.pdf)<br />
     communities. Research and development expenditure and skilled human capital
     are additional factors favouring brokerage of regions by attracting
     acquirers.</p>
-  </details></li>
+  </details>
+  <p></p>
+  </li>
 
   <li>
   <strong>Estimation and inference for spatial models with heterogeneous coefficients: An application to US house prices</strong><br />
@@ -96,7 +101,9 @@ Full CV: [here](./aquaro-cv.pdf)<br />
     changes during the 1975–2014 period shows a significant degree of
     heterogeneity in spatiotemporal dynamics over the 338 Metropolitan
     Statistical Areas considered.</p>
-  </details></li>
+  </details>
+  <p></p>
+  </li>
 
   <li>
   <strong>Robust estimation and moment selection in dynamic fixed-effects panel data models</strong><br />
@@ -123,6 +130,7 @@ Full CV: [here](./aquaro-cv.pdf)<br />
     outliers. The proposed estimator is additionally compared with existing
     methods by means of Monte Carlo simulations.</p>
   </details>
+  <p></p>
   </li>
 
   <li>
@@ -147,6 +155,7 @@ Full CV: [here](./aquaro-cv.pdf)<br />
     properties of the procedure. The proposed estimator is additionally compared
     with existing methods by means of Monte Carlo simulations.</p>
   </details>
+  <p></p>
   </li>
 
   <li>
@@ -171,6 +180,7 @@ Full CV: [here](./aquaro-cv.pdf)<br />
     of the existing and proposed methods is compared by means of Monte Carlo
     simulations.</p>
   </details>
+  <p></p>
   </li>
 </ul>
 
@@ -207,4 +217,5 @@ Full CV: [here](./aquaro-cv.pdf)<br />
     technology-seeking acquirers.</p>
   </details>
   </li>
+  <p></p>
 </ul>
