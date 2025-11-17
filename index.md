@@ -11,40 +11,41 @@ Full CV: [here](./aquaro-cv.pdf)<br />
 Contact:<br />
 `michele [dot] aquaro [at] uni [dot] lu`
 
-<small>Last updated Jan 2024</small>
+<small>Last updated November 2025</small>
+
+I am on the **2025/2026 Academic Job Market**<br />
+
+## Field of specialization
+
+Econometrics (theory and applied), with focus on micro-econometrics, panel data
+methods, and labour. I also have an interest in robust statistics.
+
+## Job market paper
+
+- **Detecting structural breaks in panel data models of social interactions with unknown networks**<br />
+  with
+  [Ryo Okui](https://sites.google.com/site/okuiryoeconomics/) and
+  [Wendun Wang]()
 
 ## Work in progress
 
-- **Detecting structural breaks in spatial panel data models with unknown networks**<br />
-  with
-  Ryo Okui and
-  Wendun Wang
-
-- **Intergenerational transmission of earnings within the firm: evidence from Danish administrative data**<br />
+- **Another look at the intergenerational transmission of employers: evidence from Danish administrative data**<br />
   with
   Paul Bingley,
   Lorenzo Cappellari,
   and Konstantinos Tatsiramos
 
-## Working Papers
-
-- **Estimation and inference for spatial models with heterogeneous coefficients in MATLAB, Python, R, and Stata**<br/>
-  with 
-  [Federico Belotti](https://economia.uniroma2.it/faculty/333/belotti-federico) and
-  [Ida Johnsson](https://idajohnsson.com/)<br/>
-  The package `hetsar` is available in
-  [R](https://github.com/maquaro/hetsar),
-  [Stata](https://ideas.repec.org/c/boc/bocode/s458926.html),
-  [Python](https://pypi.org/project/hetsar/), and
-  MATLAB
+- **Outlier-robust difference-in-differences**<br />
+  with
+  Mikhail Zhelonkin
 
 ## Publications
 
 <ul>
   <li>
   <strong>Innovative mergers and acquisitions and the broker regions of European integration</strong><br />
-  with 
-  <a href="https://orcid.org/0000-0001-8308-8367">Giacomo Damioli</a> and 
+  with
+  <a href="https://orcid.org/0000-0001-8308-8367">Giacomo Damioli</a> and
   <a href="https://orcid.org/0000-0001-5196-5599">Balázs Lengyel</a><br />
   <em>Regional Studies</em>, 57:2, 2023, p.287-299
   <details>
@@ -71,8 +72,8 @@ Contact:<br />
 
   <li>
   <strong>Estimation and inference for spatial models with heterogeneous coefficients: An application to US house prices</strong><br />
-  with 
-  <a href="https://research.monash.edu/en/persons/natalia-bailey">Natalia Bailey</a> and 
+  with
+  <a href="https://research.monash.edu/en/persons/natalia-bailey">Natalia Bailey</a> and
   <a href="http://www.econ.cam.ac.uk/people/emeritus/mhp1">M. Hashem Pesaran</a><br />
   <em>Journal of Applied Econometrics</em>, 36:1, 2021, p.18-44<br />
   The companion package <code>hetsar</code> is available in
@@ -107,7 +108,7 @@ Contact:<br />
 
   <li>
   <strong>Robust estimation and moment selection in dynamic fixed-effects panel data models</strong><br />
-  with 
+  with
   <a href="https://research.tilburguniversity.edu/en/persons/pavel-cizek">Pavel Cizek</a><br />
   <em>Computational Statistics</em>, 33:2, 2018, p.675-708
   <details>
@@ -135,7 +136,7 @@ Contact:<br />
 
   <li>
   <strong>Robust estimation of dynamic fixed-effects panel data models</strong><br />
-  with 
+  with
   <a href="https://research.tilburguniversity.edu/en/persons/pavel-cizek">Pavel Cizek</a><br />
   <em>Statistical Papers</em>, 55:1, 2014, p.169-186
   <details>
@@ -184,12 +185,24 @@ Contact:<br />
   </li>
 </ul>
 
+## Permanent working papers
+
+- **Estimation and inference for spatial models with heterogeneous coefficients in MATLAB, Python, R, and Stata**<br/>
+  with
+  [Federico Belotti](https://economia.uniroma2.it/faculty/333/belotti-federico) and
+  [Ida Johnsson](https://idajohnsson.com/)<br/>
+  The package `hetsar` is available in
+  [R](https://github.com/maquaro/hetsar),
+  [Stata](https://ideas.repec.org/c/boc/bocode/s458926.html),
+  [Python](https://pypi.org/project/hetsar/), and
+  MATLAB
+
 ## Policy reports
 
 <ul>
   <li>
   <strong>Innovative mergers and acquisitions and the integration of European regions</strong><br />
-  with 
+  with
   Giacomo Damioli and Balazs Lengyel<br />
   <em>Scientific and Technical Research Reports</em>, 2020, JRC122436<br />
   <details>
