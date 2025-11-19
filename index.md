@@ -9,11 +9,11 @@ PhD: Tilburg University<br />
 Full CV: [here](./aquaro-cv.pdf)<br />
 
 Contact:<br />
-`michele [dot] aquaro [at] uni [dot] lu`
+michele [dot] aquaro [at] uni [dot] lu
 
 <small>Last updated November 2025</small>
 
-I am on the **2025/2026 Academic Job Market**<br />
+&bull; **I am on the 2025/2026 Academic Job Market** &bull;<br />
 
 ## Field of specialization
 
@@ -31,6 +31,7 @@ methods, and labour. I also have an interest in robust statistics.
   <details>
     <summary>
       [Abstract]
+      [<a href="mailto:michele.aquaro@uni.lu">Draft available upon request</a>]
     </summary>
     <p style="text-align: justify;">This paper aims to detect structural break
     points in latent networks in a panel data setting. We consider panel models
