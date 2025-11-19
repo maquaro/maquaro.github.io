@@ -22,22 +22,43 @@ methods, and labour. I also have an interest in robust statistics.
 
 ## Job market paper
 
-- **Detecting structural breaks in panel data models of social interactions with unknown networks**<br />
+<ul>
+  <li>
+  <strong>Detecting structural breaks in panel data models of social interactions with unknown networks</strong><br />
   with
-  [Ryo Okui](https://sites.google.com/site/okuiryoeconomics/) and
-  [Wendun Wang]()
+  <a href="https://sites.google.com/site/okuiryoeconomics/">Ryo Okui</a> and
+  <a href="https://wendunwang.weebly.com">Wendun Wang</a><br />
+  <details>
+    <summary>
+      [Abstract]
+    </summary>
+    <p style="text-align: justify;">This paper aims to detect structural break
+    points in latent networks in a panel data setting. We consider panel models
+    where the outcome of a unit depends on the outcomes and characteristics of
+    other units. The latent network structure induces high-dimensional
+    parameters and interactive outcomes generate endogeneity. Our goal is to
+    detect breaks in high-dimensional network parameters associated with
+    endogenous variables. We propose a two-step penalized nonlinear least
+    squares approach to estimate the break points based on reduced forms, and
+    show that the resulting estimator achieves superconsistency. This property
+    allows us to estimate, and make inferences on, network and slope parameters
+    as if the true break points were known.</p>
+  </details>
+  <p></p>
+  </li>
+</ul>
 
 ## Work in progress
 
 - **Another look at the intergenerational transmission of employers: evidence from Danish administrative data**<br />
   with
-  Paul Bingley,
-  Lorenzo Cappellari,
-  and Konstantinos Tatsiramos
+  [Paul Bingley](https://www.vive.dk/en/staff/paul-bingley-mv7z8j2l/),
+  [Lorenzo Cappellari](https://docenti.unicatt.it/ppd2/it/docenti/12584/lorenzo-cappellari/profilo),
+  and [Konstantinos Tatsiramos](https://www.uni.lu/fdef-en/people/konstantinos-tatsiramos/)
 
 - **Outlier-robust difference-in-differences**<br />
   with
-  Mikhail Zhelonkin
+  [Mikhail Zhelonkin](https://www.eur.nl/en/people/mikhail-zhelonkin)
 
 ## Publications
 
@@ -229,6 +250,6 @@ methods, and labour. I also have an interest in robust statistics.
     factor favouring the connection of fragmented groups of regions by attracting
     technology-seeking acquirers.</p>
   </details>
-  </li>
   <p></p>
+  </li>
 </ul>
