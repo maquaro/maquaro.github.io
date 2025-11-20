@@ -6,7 +6,7 @@ University of Luxembourg
 
 Research field: Econometrics<br />
 PhD: Tilburg University<br />
-Full CV: [here](./aquaro-cv.pdf)<br />
+Full CV: [here](/files/aquaro-cv.pdf)<br />
 
 Contact:<br />
 michele [dot] aquaro [at] uni [dot] lu
@@ -31,7 +31,7 @@ methods, and labour. I also have an interest in robust statistics.
   <details>
     <summary>
       [Abstract]
-      [<a href="mailto:michele.aquaro@uni.lu">Draft available upon request</a>]
+      [<a href="/files/aquaro-jmp.pdf">Paper</a>]
     </summary>
     <p style="text-align: justify;">This paper aims to detect structural break
     points in latent networks in a panel data setting. We consider panel models
